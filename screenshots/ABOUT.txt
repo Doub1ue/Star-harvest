@@ -1,0 +1,2 @@
+Screenshots of Star Harvest, taken from the game's deterministic scenes
+(?shot=start|play|win|end&seed=1, see ../shots.json). 1-play.jpg is the cover.
